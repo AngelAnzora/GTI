@@ -1,9 +1,9 @@
 Tarea de PSeint.
 
 ##  Descripción
-Este repositorio contiene un algoritmo creado apartir de la enseñanza y paciencia
-El programa solicita un número inicial al usuario y realiza una cuenta regresiva
-Restando de 1 en 1 hasta llegar a 0 según las indicaciones del Ing. Alfredo Sorto.
+Este repositorio contiene un algoritmo creado apartir de la enseñanza y paciencia,
+el programa solicita un número inicial al usuario y realiza una cuenta regresiva
+restando de 1 en 1 hasta llegar a 0 según las indicaciones del Ing. Alfredo Sorto.
 
 ##  Estructura Utilizada
 Para lograr la repetición (iteración), se utilizó la estructura de control 
